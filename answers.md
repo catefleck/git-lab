@@ -42,3 +42,11 @@ Answer 9
 On branch main
 Your branch is up to date with 'origin/main'.
 
+Answer 10
+No the changes made online did not change locally
+
+Answer 11
+It gave me an error because there was nothing local to push.
+
+Answer 12
+The git pull command pulled the information online onto my local directory so that I can see the changes.
