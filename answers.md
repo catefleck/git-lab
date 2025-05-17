@@ -13,3 +13,4 @@
 10. No the changes made online did not change locally.
 11. I got an error because I need to pull my changes so that the branch is up to date before I can push anything.
 12. The git pull command pulled the changes from online to the local directory.
+13. The output is ". .. git-lab-2"
